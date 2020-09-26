@@ -1,0 +1,5 @@
+K-Moyennes
+K-medoids
+bayesien naïf
+Algorithme EM
+PCA
